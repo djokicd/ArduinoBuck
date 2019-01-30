@@ -2,7 +2,7 @@
 
 Nice demo of the control system of the Buck DC/DC convertor implemented using Arduino UNO.
 
-## Realizacija sistema
+## System realization
 Schematic of this implementation is in /sch.
 
 ### Components
